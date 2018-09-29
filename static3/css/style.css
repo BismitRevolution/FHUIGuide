@@ -16,6 +16,15 @@
     src: url('/static3/font/apercu/Apercu Regular.otf');
 }
 
-.navbar-nav .nav-link {
+@font-face {
+    font-family: "Apercu-Medium";
+    src: url('/static3/font/apercu/Apercu Medium.otf');
+}
+
+body {
     font-family: "Apercu-Regular" !important;
+}
+
+.navbar-nav .nav-link {
+    font-family: "Apercu-Medium" !important;
 }
