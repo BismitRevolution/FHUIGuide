@@ -434,7 +434,7 @@ webpackJsonp([0], {
         a.a = i
     },
     "05xs": function(t, a, e) {
-        t.exports = e.p + "static/img/title.a349788.png"
+        t.exports = e.p + "static3/img/title.a349788.png"
     },
     "1Tua": function(t, a, e) {
         "use strict";
