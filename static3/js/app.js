@@ -683,7 +683,7 @@ webpackJsonp([0], {
                         src: e("pqdC"),
                         alt: "logo"
                     }
-                }), t._v(" Company Profile")])]), t._v(" "), s("li", {
+                }), t._v(" Scope")])]), t._v(" "), s("li", {
                     staticClass: "header"
                 }, [t._v("Pendidikan & Keilmuan")]), t._v(" "), s("router-link", {
                     attrs: {
@@ -3384,7 +3384,7 @@ webpackJsonp([0], {
                             name: "Dashboard Pengkarpedia"
                         }
                     }
-                }, [t._v("Pengkarpedia")])], 1), t._v(" "), s("li", [s("router-link", {
+                }, [t._v("Pengkarpedia Live")])], 1), t._v(" "), s("li", [s("router-link", {
                     attrs: {
                         to: {
                             name: "Dashboard Info Magang"
@@ -3396,7 +3396,7 @@ webpackJsonp([0], {
                             name: "Dashboard Company Profile"
                         }
                     }
-                }, [t._v("Company Profile")])], 1)])]), t._v(" "), s("div", {
+                }, [t._v("Scope")])], 1)])]), t._v(" "), s("div", {
                     staticClass: "navi col-12 col-md-4"
                 }, [t._v("\n                    Pendidikan & Keilmuan\n                    "), s("ul", [s("li", [s("router-link", {
                     attrs: {
@@ -5064,7 +5064,7 @@ webpackJsonp([0], {
                     staticStyle: {
                         color: "#56C1ED"
                     }
-                }, [t._v("Pengkarpedia")])], 1)])])]), t._v(" "), s("div", {
+                }, [t._v("Pengkarpedia Live")])], 1)])])]), t._v(" "), s("div", {
                     staticClass: "row"
                 }, [t._v(" ")])]), t._v(" "), t._m(3)])
             },
