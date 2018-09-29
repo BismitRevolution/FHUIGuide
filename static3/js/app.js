@@ -1318,7 +1318,7 @@ webpackJsonp([0], {
         }
     },
     FBZc: function(t, a, e) {
-        t.exports = e.p + "static/img/logo-header-text.e314e7b.png"
+        t.exports = e.p + "static3/img/logo-header-text.e314e7b.png"
     },
     FU6D: function(t, a, e) {
         "use strict";
@@ -4090,13 +4090,13 @@ webpackJsonp([0], {
                     attrs: {
                         to: "/company"
                     }
-                }, [t._v("Company Profile "), s("span", {
+                }, [t._v("Scope "), s("span", {
                     staticClass: "sr-only"
                 }, [t._v("(current)")])]), t._v(" "), s("router-link", {
                     attrs: {
                         to: "/pengkarpedia"
                     }
-                }, [t._v("Pengkarpedia "), s("span", {
+                }, [t._v("Pengkarpedia Live"), s("span", {
                     staticClass: "sr-only"
                 }, [t._v("(current)")])])], 1)]), t._v(" "), s("div", {
                     staticClass: "dropdown"
@@ -5126,7 +5126,7 @@ webpackJsonp([0], {
                     }
                 }, [e("div", {
                     staticClass: "col-12 text-center wow fadeInLeft"
-                }, [e("em", [t._v("FHUI Guide")]), t._v(" dikelola oleh Bidang Akademik & Profesi"), e("br"), t._v(" "), e("strong", [t._v("BEM FH UI 2018")]), e("br"), t._v(" "), e("strong", [e("em", [t._v("Sepenuh Hati Memberi Arti")])])])])
+                }, [e("em", [t._v("FH UI Guide")]), t._v(" dikelola oleh Bidang Akademik & Profesi"), e("br"), t._v(" "), e("strong", [t._v("BEM FH UI 2018")]), e("br"), t._v(" "), e("strong", [e("em", [t._v("Sepenuh Hati Memberi Arti")])])])])
             }],
             i = {
                 render: s,
