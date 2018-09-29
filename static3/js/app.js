@@ -2447,7 +2447,7 @@ webpackJsonp([0], {
         t.exports = e.p + "static/img/notepad.c5e576b.png"
     },
     V3HV: function(t, a, e) {
-        t.exports = e.p + "static/img/logo-center.e0a4da9.png"
+        t.exports = e.p + "static3/img/logo-center.e0a4da9.png"
     },
     V3xm: function(t, a, e) {
         "use strict";
