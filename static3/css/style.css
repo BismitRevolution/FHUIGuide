@@ -1,0 +1,21 @@
+:root {
+    --color-blue: #00BBE3;
+    --color-blue-rgb: 0, 187, 227;
+    --color-dark-blue: #0097D6;
+    --color-dark-blue-rgb: 0, 151, 214;
+    --color-light-blue: #8FCFEC;
+    --color-light-blue-rgb: 143, 207, 236;
+    --color-light: #FAFBFE;
+    --color-light-rgb: 250, 251, 254;
+    --color-dark: #222428;
+    --color-dark-rgb: 34, 36, 40;
+}
+
+@font-face {
+    font-family: "Apercu-Regular";
+    src: url('/font/apercu/Apercu Regular.otf');
+}
+
+.navbar-nav .nav-link {
+    font-family: "Apercu-Regular" !important;
+}
