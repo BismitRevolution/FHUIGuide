@@ -5126,7 +5126,7 @@ webpackJsonp([0], {
                     }
                 }, [e("div", {
                     staticClass: "col-12 text-center wow fadeInLeft"
-                }, [e("em", [t._v("FHUI Guide")]), t._v(" dikelola oleh Bidang Akademik & Profesi"), e("br"), t._v(" "), e("strong", [t._v("BEM FH UI 2017")]), e("br"), t._v(" "), e("strong", [e("em", [t._v("Nyata Berkarya")])])])])
+                }, [e("em", [t._v("FHUI Guide")]), t._v(" dikelola oleh Bidang Akademik & Profesi"), e("br"), t._v(" "), e("strong", [t._v("BEM FH UI 2018")]), e("br"), t._v(" "), e("strong", [e("em", [t._v("Sepenuh Hati Memberi Arti")])])])])
             }],
             i = {
                 render: s,
