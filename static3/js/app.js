@@ -5048,7 +5048,7 @@ webpackJsonp([0], {
                     staticStyle: {
                         color: "#FDDF89"
                     }
-                }, [t._v("Company Profile")])], 1), t._v(" "), s("div", {
+                }, [t._v("Scope")])], 1), t._v(" "), s("div", {
                     staticClass: "col-6 text-center round-navi"
                 }, [s("router-link", {
                     attrs: {
